@@ -6,7 +6,7 @@
 Ledgerly - An AI powered Digital Ledger Management System (DLMS)
 
 ### Purpose
-DLMS is an end-to-end system that converts unstructured bank account statement documents into a structured, auditable, double-entry digital ledger. The system aims to automate bookkeeping workflows, reduce manual accounting effort, and provide financial intelligence through analytics and AI-driven insights.
+Ledgerly is an end-to-end system that converts unstructured bank account statement documents into a structured, auditable, double-entry digital ledger. The system aims to automate bookkeeping workflows, reduce manual accounting effort, and provide financial intelligence through analytics and AI-driven insights.
 
 This product is designed as a **portfolio-grade, production-inspired system** demonstrating strong backend engineering, distributed systems design, and applied AI.
 
